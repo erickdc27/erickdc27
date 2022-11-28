@@ -22,4 +22,4 @@
   <a href="https://www.linkedin.com/in/erick-d-carvalho/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
 
-  ![Snake animation](https://github.com/erickdc27/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/erickdc27/erickdc27/blob/output/github-contribution-grid-snake.svg)
