@@ -1,4 +1,4 @@
-## Olá! Me chamo Erick Carvalho e sou estudante de Análise e Desenvolvimento de Sistemas 😁
+## Olá! Me chamo Erick e sou graduado em Análise e Desenvolvimento de Sistemas, com pós-graduação em Engenharia de Software, Ciência de Dados e Inteligência Artificial e em Direito Digital e Proteção de Dados.
 <div align="center">
   <a href="https://github.com/erickdc27">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=erickdc27&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
